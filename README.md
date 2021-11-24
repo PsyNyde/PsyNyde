@@ -1,5 +1,5 @@
 <h2> Hi, I'm Wahid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.githubassets.com/images/mona-loading-dark.gif" width="230">
+<img align='right' src="https://github.githubassets.com/images/mona-loading-dark.gif" width="150">
 <p><em>Self taught programmer from Bangladesh<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>My website <a href="https://wahidislamlinad.netlify.app">wahidislamlinad.netlify.app</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
