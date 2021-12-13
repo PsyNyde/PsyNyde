@@ -1,6 +1,6 @@
 <h2> Hi, I'm Wahid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn.discordapp.com/emojis/855380040421605377.png" width="150">
-<p><em>Self taught programmer from Bangladesh<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>My website <a href="https://wahidislamlinad.netlify.app">wahidislamlinad.netlify.app</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Self taught programmer from Bangladesh<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm a 18 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -40,6 +40,14 @@ me.say_hi()
 
 - Os: Windows
 - Editor: Vscode
+
+:envelope: If you want to contact me, my socials are listed below.
+
+* Twitter: [@wahidislamlinad](https://twitter.com/wahidislamlinad)
+* Facebook: [Wahid Islam](https://facebook.com/wahidislamlinad)
+* Discord: [Wahid Islam#7700](https://discordapp.com/users/697797379583115315/)
+* Website: [wahidislamlinad.netlify.app](https://wahidislamlinad.netlify.app)
+
 <!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
