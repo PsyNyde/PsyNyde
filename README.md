@@ -41,6 +41,12 @@ me.say_hi()
 - Os: Windows
 - Editor: Vscode
 
+### <image src="https://cdn.discordapp.com/emojis/915947633250537512.png?size=300" width="24"> Activities
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9wnylnys5ewok6a145o5mjml9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=9wnylnys5ewok6a145o5mjml9&redirect=true)
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9wnylnys5ewok6a145o5mjml9&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=9wnylnys5ewok6a145o5mjml9&redirect=true) -->
+
 :envelope: If you want to contact me, my socials are listed below.
 
 * Twitter: [@wahidislamlinad](https://twitter.com/wahidislamlinad)
