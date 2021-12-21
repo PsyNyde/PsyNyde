@@ -22,7 +22,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Wahid Islam"
         self.pronoun = "He/Him"
-        self.code = ["Python", "Javascript", "Typescript", "C++", "Html", "CSS",]
+        self.code = ["Python", "Javascript", "Typescript", "C++", "Html", "CSS"]
         
         self.role = "Software Engineer"
         self.language_spoken = ["bn_BD", "en_US"]
