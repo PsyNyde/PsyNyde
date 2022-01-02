@@ -4,13 +4,6 @@
 </em></p>
 
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wahidislamlinad)
-[![GitHub Wahid](https://img.shields.io/github/followers/wahidislamlinad?label=follow&style=flat&logo=github)](https://github.com/wahidislamlinad)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```python
 #!/usr/bin/python
@@ -38,7 +31,7 @@ me.say_hi()
 
 ### 🔧 Technologies & Tools
 
-- Os: Windows
+- Os: Windows(WSL)
 - Editor: Vscode
 
 ### <image src="https://cdn.discordapp.com/emojis/915947633250537512.png?size=300" width="24"> Activities
