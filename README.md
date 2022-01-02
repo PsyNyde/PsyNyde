@@ -3,7 +3,8 @@
 <p><em>Self taught programmer from Bangladesh<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm a 18 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-
+[![followers](https://img.shields.io/github/followers/wahidislamlinad?logo=github)](https://github.com/wahidislamlinad)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://discordapp.com/users/697797379583115315/)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```python
 #!/usr/bin/python
@@ -11,7 +12,7 @@
 
 
 class SoftwareEngineer:
-
+https://img.shields.io/twitter/follow/wahidislamlinad?label=%40wahidislamlinad&logo=Twitter&style=flat-square
     def __init__(self):
         self.name = "Wahid Islam"
         self.pronoun = "He/Him"
