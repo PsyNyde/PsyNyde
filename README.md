@@ -12,7 +12,6 @@
 
 
 class SoftwareEngineer:
-https://img.shields.io/twitter/follow/wahidislamlinad?label=%40wahidislamlinad&logo=Twitter&style=flat-square
     def __init__(self):
         self.name = "Wahid Islam"
         self.pronoun = "He/Him"
