@@ -17,7 +17,7 @@ class SoftwareEngineer:
         self.pronoun = "He/Him"
         self.code = ["Python", "Javascript", "Typescript", "C++", "Html", "CSS"]
         
-        self.role = "Software Engineer"
+        self.role = "Progammer"
         self.language_spoken = ["bn_BD", "en_US"]
 
     def say_hi(self):
@@ -46,3 +46,7 @@ me.say_hi()
 * Facebook: [Wahid Islam](https://facebook.com/wahidislamlinad)
 * Discord: [Wahid Islam#7700](https://discordapp.com/users/697797379583115315/)
 * Website: [wahidislamlinad.netlify.app](https://wahidislamlinad.netlify.app)
+
+### 🤔Current projects
+- [x] Make default github preview [page](https://wahidislamlinad.github.io)
+- [ ] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://google.com)
