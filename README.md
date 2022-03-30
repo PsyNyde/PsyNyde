@@ -49,4 +49,4 @@ me.say_hi()
 
 ### 🤔Current projects
 - [x] Make default github preview [page](https://wahidislamlinad.github.io)
-- [ ] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://google.com)
+- [x] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://google.com)
