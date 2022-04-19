@@ -38,12 +38,6 @@ me.say_hi()
 - Os: Windows(WSL)
 - Editor: Vscode
 
-<!-- ### <image src="https://cdn.discordapp.com/emojis/915947633250537512.png?size=300" width="24"> Activities
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9wnylnys5ewok6a145o5mjml9&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=9wnylnys5ewok6a145o5mjml9&redirect=true)
-
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9wnylnys5ewok6a145o5mjml9&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=9wnylnys5ewok6a145o5mjml9&redirect=true) -->
-
 :envelope: If you want to contact me, my socials are listed below.
 
 * Twitter: [@wahidislamlinad](https://twitter.com/wahidislamlinad)
@@ -52,15 +46,12 @@ me.say_hi()
 * Website: [wahidislamlinad.netlify.app](https://wahidislamlinad.netlify.app)
 
 ### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"> Current projects..
-- [x] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://yetanothersearch.herokuapp.com/)
-- [x] Setup void dots on a vm to implement on og machine
-- [ ] Setup void with dots on home computer
+ - [x] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://yetanothersearch.herokuapp.com/)
+ - [x] Setup void dots on a vm to implement on og machine
+ - [ ] Setup void with dots on home computer.
 
-<details>
-<summary><samp>Click me👆</samp></summary>
-<br>
-
-> All projects are currently not **<i>properly</i> maintained** as I've left home for college.
-> I'll still work on my projects whenever I visit my parents & also will be active with github via my android otherwise😺
-
-</details>
+<p align="center">
+   <details> <summary>𝚅𝚒𝚎𝚠 𝚖𝚊𝚝𝚛𝚒𝚌𝚜👀</summary>
+    <a href="https://github.com/wahidislamlinad?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
+   </details>
+</p>
