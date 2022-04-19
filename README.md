@@ -3,28 +3,32 @@
 <p><em>Self taught programmer from Bangladesh<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm a 18 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![followers](https://img.shields.io/github/followers/wahidislamlinad?logo=github)](https://github.com/wahidislamlinad)
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://discordapp.com/users/697797379583115315/)
+[![followers](https://img.shields.io/github/followers/wahidislamlinad?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=followers)
+[![Repos Badge](https://badges.pufler.dev/repos/wahidislamlinad?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=repositories)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/wahidislamlinad?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE)
+[![Visits Badge](https://badges.pufler.dev/visits/wahidislamlinad/wahidislamlinad?style=flat&logo=Bilibili&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE)
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class Student:
     def __init__(self):
         self.name = "Wahid Islam"
         self.pronoun = "He/Him"
-        self.code = ["Python", "Javascript", "Typescript", "C++", "Html", "CSS"]
+        self.code = ["Python", "Rust", "Typescript", "C++", "Html", "CSS"]
         
-        self.role = "Progammer"
+        self.role = ["Student", "Progammer"]
         self.language_spoken = ["bn_BD", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = Student()
 me.say_hi()
 ```
 
@@ -47,6 +51,16 @@ me.say_hi()
 * Discord: [Wahid Islam#7700](https://discordapp.com/users/697797379583115315/)
 * Website: [wahidislamlinad.netlify.app](https://wahidislamlinad.netlify.app)
 
-### 🤔Current projects
-- [x] Make default github preview [page](https://wahidislamlinad.github.io)
-- [x] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://google.com)
+### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"> Current projects..
+- [x] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://yetanothersearch.herokuapp.com/)
+- [x] Setup void dots on a vm to implement on og machine
+- [ ] Setup void with dots on home computer
+
+<details>
+<summary><samp>Click me👆</samp></summary>
+<br>
+
+> All projects are currently not **<i>properly</i> maintained** as I've left home for college.
+> I'll still work on my projects whenever I visit my parents & also will be active with github via my android otherwise😺
+
+</details>
