@@ -1,6 +1,6 @@
-<h2> Hi, I'm Wahid! <img src="assets/joycat.gif" width="40"></h2>
+<h2> Hi, I'm Wahid! <img src="assets/bouncecat.gif" width="40"></h2>
 <a href="https://youtu.be/Vg3I4Ut9uXE"><img align='right' src="assets/cat.png" width="140"></a>
-<p><em>Self taught programmer from Bangladesh<img src="assets/codecat.png" width="30"></br>I'm a 18 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Self taught programmer from Bangladesh<img src="assets/happycat.gif" width="30"></br>I'm a 18 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![followers](https://img.shields.io/github/followers/wahidislamlinad?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=followers)
