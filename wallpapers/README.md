@@ -3,7 +3,7 @@
 `anime-monochrome`
 
 <img src="https://raw.githubusercontent.com/WahidIslamLinad/WahidIslamLinad/main/wallpapers/anime-monochrome.jpg" alt="anime-monochrome" align="right" width="400px">
-<p align="center"> ━━━━━━━━━━━━━━━━━━━━━━━━━━━ </p>
+<p align="center"> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </p>
 
 `bw-waves`
 
