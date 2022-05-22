@@ -3,10 +3,10 @@
 <p><em>Self taught programmer from Bangladesh<img src="assets/happycat.gif" width="25"></br>I'm a 18 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![followers](https://img.shields.io/github/followers/wahidislamlinad?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=followers)
-[![Repos Badge](https://badges.pufler.dev/repos/wahidislamlinad?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/wahidislamlinad?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/517yf9XkQdk)
-[![Visits Badge](https://badges.pufler.dev/visits/wahidislamlinad/wahidislamlinad?style=flat&logo=Bilibili&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE)
+[![followers](https://img.shields.io/github/followers/smolbit?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=followers)
+[![Repos Badge](https://badges.pufler.dev/repos/smolbit?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=repositories)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/smolbit?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/517yf9XkQdk)
+[![Visits Badge](https://badges.pufler.dev/visits/smolbit/smolbit?style=flat&logo=Bilibili&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
