@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.MATRICS_TOKEN }}
 
           # Options
-          user: wahidislamlinad
+          user: smolbit
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
