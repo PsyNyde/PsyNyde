@@ -43,7 +43,7 @@ me.say_hi()
 * Twitter: [@wahidislamlinad](https://twitter.com/wahidislamlinad)
 * Facebook: [Wahid Islam](https://facebook.com/wahidislamlinad)
 * Discord: [Wahid Islam#7700](https://discordapp.com/users/697797379583115315/)
-* Website: [wahidislamlinad.netlify.app](https://wahidislamlinad.netlify.app)
+* Website: [https://wahidislam.netlify.app](https://wahidislam.netlify.app/)
 
 ### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"> Current projects..
  - [x] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://yetanothersearch.herokuapp.com/)
