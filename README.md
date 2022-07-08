@@ -32,7 +32,6 @@ me = Student()
 me.say_hi()
 ```
 
-
 ### 🔧 Technologies & Tools
 
 - Os: Windows(WSL)
