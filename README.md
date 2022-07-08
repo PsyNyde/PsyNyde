@@ -3,8 +3,8 @@
 <p><em>Self taught programmer from Bangladesh<img src="assets/happycat.gif" width="25"></br>I'm a 18 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![followers](https://img.shields.io/github/followers/simplyvoid?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=followers)
-[![Repos Badge](https://badges.pufler.dev/repos/simplyvoid?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=repositories)
+[![followers](https://img.shields.io/github/followers/simplyvoid?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/simplyvoid?tab=followers)
+[![Repos Badge](https://badges.strrl.dev/repos/simplyvoid?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/simplyvoid?tab=repositories)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/simplyvoid?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/517yf9XkQdk)
 [![Visits Badge](https://badges.strrl.dev/visits/simplyvoid/simplyvoid?style=flat&logo=Bilibili&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE)
 
