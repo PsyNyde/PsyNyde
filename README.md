@@ -6,7 +6,7 @@
 [![followers](https://img.shields.io/github/followers/simplyvoid?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=followers)
 [![Repos Badge](https://badges.pufler.dev/repos/simplyvoid?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/WahidIslamLinad?tab=repositories)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/simplyvoid?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/517yf9XkQdk)
-[![Visits Badge](https://badges.pufler.dev/visits/simplyvoid/simplyvoid?style=flat&logo=Bilibili&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE)
+[![Visits Badge](https://badges.strrl.dev/visits/simplyvoid/simplyvoid?style=flat&logo=Bilibili&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
