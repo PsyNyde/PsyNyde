@@ -5,8 +5,8 @@
 
 [![followers Badge](https://img.shields.io/github/followers/simplyvoid?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/simplyvoid?tab=followers)
 [![Visits Badge](https://badges.strrl.dev/visits/simplyvoid/simplyvoid?style=flat&logo=Bilibili&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE) <br>
-[![Total Stars Badge](https://img.shields.io/github/stars/simplyvoid?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB&label=Stargazers)](https://github.com/simplyvoid?tab=repositories)
-[![hi](https://badges.strrl.dev/contributions/all/simplyvoid?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB&label=Commits)](https://youtu.be/517yf9XkQdk)
+[![Total Stars Badge](https://img.shields.io/github/stars/simplyvoid?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB&label=Stargazers)](https://youtu.be/B5unCXpegAw)
+[![hi](https://badges.strrl.dev/contributions/all/simplyvoid?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB&label=Commits)](https://youtu.be/1SCAb_qFDK4)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
