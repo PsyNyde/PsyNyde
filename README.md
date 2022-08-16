@@ -6,7 +6,7 @@
 [![followers Badge](https://img.shields.io/github/followers/simplyvoid?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/simplyvoid?tab=followers)
 [![Visits Badge](https://badges.strrl.dev/visits/simplyvoid/simplyvoid?style=flat&logo=Bilibili&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/Vg3I4Ut9uXE) <br>
 [![Total Stars Badge](https://img.shields.io/github/stars/simplyvoid?style=flat&logo=byte&labelColor=000000&color=CECDCB&logoColor=CECDCB&label=Stargazers)](https://github.com/simplyvoid?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/simplyvoid?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://youtu.be/517yf9XkQdk)
+[![hi](https://badges.strrl.dev/contributions/all/simplyvoid?style=flat&logo=ApacheKafka&labelColor=000000&color=CECDCB&logoColor=CECDCB&label=Commits)](https://youtu.be/517yf9XkQdk)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -51,6 +51,9 @@ me.say_hi()
 
 <p align="center">
    <details> <summary>𝚅𝚒𝚎𝚠 𝚖𝚊𝚝𝚛𝚒𝚌𝚜👀</summary>
+    <br>
+    <img src="https://discord-readme-badge.vercel.app/api?id=697797379583115315" />
+    <br>
     <a href="https://github.com/simplyvoid?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
    </details>
 </p>
