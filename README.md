@@ -45,9 +45,10 @@ me.say_hi()
 * Website: [https://wahidislam.vercel.app](https://wahidislam.vercel.app/)
 
 ### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"> Current projects..
- - [x] Setup [whoogle](https://github.com/benbusby/whoogle-search) to replace [google](https://yetanothergoogle.herokuapp.com/)
- - [x] Setup void dots on a vm to implement on og machine
- - [ ] Setup void with dots on home computer.
+- [x] Choose framework for blog website.
+- [x] Create layout,home page & 404 for blog.
+- [ ] Impliment .md file for blog post.
+- [ ] Complete other pages
 
 <p align="center">
    <details> <summary>𝚅𝚒𝚎𝚠 𝚖𝚊𝚝𝚛𝚒𝚌𝚜👀</summary>
