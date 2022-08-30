@@ -65,3 +65,4 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_traffic: yes
+
