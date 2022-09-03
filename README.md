@@ -14,22 +14,38 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+from enum import Enum
+
+class CodeType(Enum):
+    python = 'https://python.org/'
+    rust = 'https://rust-lang.org/'
+    typescript = 'https://www.typescriptlang.org',
+    cpp = 'https://https://en.wikipedia.org/wiki/C%2B%2B',
+    web = {
+        'html': 'https://html.com', # Start learning from here!
+        'css': 'https://en.wikipedia.org/wiki/CSS'
+    }
 
 class Student:
-    def __init__(self):
+    def __init__(self) -> None:
         self.name = "Wahid Islam"
         self.pronoun = "He/Him"
-        self.code = ["Python", "Rust", "Typescript", "C++", "Html", "CSS"]
-        
+        self.code = [
+            CodeType.python,
+            CodeType.rust,
+            CodeType.typescript,
+            CodeType.cpp,
+            CodeType.web
+        ]
         self.role = ["Student", "Progammer"]
         self.language_spoken = ["bn_BD", "en_US"]
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def __str__(self) -> str:
+        return "Thanks for dropping by, hope you find some of my work interesting."
 
 
-me = Student()
-me.say_hi()
+my_life = Student()
+print(my_life)  # Irony!
 ```
 
 ### 🔧 Technologies & Tools
