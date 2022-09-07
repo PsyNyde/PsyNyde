@@ -9,7 +9,7 @@
             <b>
             Hello There
         <br>
-            I'm Orbit, a Student, and Linux enthusiast.
+            I'm SimplyVoid, a Student, and Linux enthusiast.
             </b>
         <br>
         <br>
@@ -35,7 +35,7 @@
   <samp>
     [<a href="https://discordapp.com/users/697797379583115315/">discord</a>]
     [<a href="https://matrix.to/#/@orbitalvoid:matrix.org">matrix</a>]
-    [<a href="mailto:wahidislamlinad@proton.me">e-mail</a>]
+    [<a href="mailto:wahidislamlinad@pm.me">e-mail</a>]
   </samp>
 </p>
 
@@ -45,6 +45,7 @@
 <details>
   <summary>My Profile Stats</summary>
   <br/>
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smolbit&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&title_color=f0f0f0&text_color=d0d0d0&icon_color=f0f0f0&bg_color=151515&border_radius=12&custom_title=Orbit's+github+stats %F0%9F%91%80"/>
+          <!--<a href="https://app.daily.dev/SimplyVoid"><img src="https://api.daily.dev/devcards/8a574eb927c04cd4a7c52891adc31143.png?r=xqd" width="400" alt="Wahid Islam's Dev Card"/></a> -->
+          <img src="./github-metrics.svg" />
   <br/>
 </details>
