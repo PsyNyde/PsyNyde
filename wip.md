@@ -33,9 +33,9 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://discordapp.com/users/697797379583115315/">discord</a>]
-    [<a href="https://matrix.to/#/@orbitalvoid:matrix.org">matrix</a>]
-    [<a href="mailto:wahidislamlinad@pm.me">e-mail</a>]
+    [<a href="https://discordapp.com/users/697797379583115315/" target="_blank">discord</a>]
+    [<a href="https://t.me/wahidislam" target="_blank">telegram</a>]
+    [<a href="mailto:wahidislamlinad@pm.me" target="_blank">e-mail</a>]
   </samp>
 </p>
 
