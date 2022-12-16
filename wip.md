@@ -13,7 +13,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=aa759f&center=true&vCenter=true&width=400&height=45&lines=I+code+pretty+%26+aesthetic+programs.">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=aa759f&center=true&vCenter=true&width=400&height=45&lines=I+code+functional+%26+aesthetic+programs.">
         <br>
             <b>
             ~ Wahid Islam Linad ~
@@ -35,7 +35,8 @@
   <samp>
     [<a href="https://discordapp.com/users/697797379583115315/" target="_blank">discord</a>]
     [<a href="https://t.me/wahidislam" target="_blank">telegram</a>]
-    [<a href="mailto:wahidislamlinad@pm.me" target="_blank">e-mail</a>]
+    [<a href="https://matrix.to/#/@wahidislamlinad:matrix.org" target="_blank">matrix</a>]
+    [<a href="mailto:wahidislam@duck.com" target="_blank">e-mail</a>]
   </samp>
 </p>
 
