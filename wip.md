@@ -38,7 +38,16 @@
     [<a href="https://matrix.to/#/@wahidislamlinad:matrix.org" target="_blank">matrix</a>]
     [<a href="mailto:wahidislam@duck.com" target="_blank">e-mail</a>]
   </samp>
-</p>
+</p><br>
+
+```sh
+curl -sL https://github.com/simplyvoid.gpg | gpg --import
+```
+
+```console
+309E 5C4E 2193 5932 7487 7103 6C85 D97D DAC4 462F
+```
+
 
 <!-- Github Stats -->
 <p align="center">
