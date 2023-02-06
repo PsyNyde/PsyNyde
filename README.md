@@ -53,8 +53,6 @@ me.say_hi()
 <p align="center">
    <details> <summary>𝚅𝚒𝚎𝚠 𝚖𝚊𝚝𝚛𝚒𝚌𝚜👀</summary>
     <br>
-    <img src="https://discord-readme-badge.vercel.app/api?id=697797379583115315" />
-    <br>
     <a href="https://github.com/simplyvoid?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
    </details>
 </p>
