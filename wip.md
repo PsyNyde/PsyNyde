@@ -12,7 +12,6 @@
             I'm SimplyVoid, a Student, and Linux enthusiast.
             </b>
         <br>
-        <br>
           <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=aa759f&center=true&vCenter=true&width=400&height=45&lines=I+code+functional+%26+aesthetic+programs.">
         <br>
             <b>
@@ -40,6 +39,19 @@
   </samp>
 </p><br>
 
+<!-- Github Stats -->
+<p align="center">
+<details>
+  <summary>Stats 📈</summary>
+  <br/>
+          <!--<a href="https://app.daily.dev/SimplyVoid"><img src="https://api.daily.dev/devcards/8a574eb927c04cd4a7c52891adc31143.png?r=xqd" width="400" alt="Wahid Islam's Dev Card"/></a> -->
+          <img src="./github-metrics.svg" />
+  <br/>
+</details>
+
+<details>
+  <summary>GPG 🔑</summary>
+
 ```sh
 curl -sL https://github.com/simplyvoid.gpg | gpg --import
 ```
@@ -47,15 +59,4 @@ curl -sL https://github.com/simplyvoid.gpg | gpg --import
 ```console
 309E 5C4E 2193 5932 7487 7103 6C85 D97D DAC4 462F
 ```
-
-
-<!-- Github Stats -->
-<p align="center">
-    <samp>
-<details>
-  <summary>My Profile Stats</summary>
-  <br/>
-          <!--<a href="https://app.daily.dev/SimplyVoid"><img src="https://api.daily.dev/devcards/8a574eb927c04cd4a7c52891adc31143.png?r=xqd" width="400" alt="Wahid Islam's Dev Card"/></a> -->
-          <img src="./github-metrics.svg" />
-  <br/>
 </details>
