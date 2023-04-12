@@ -57,6 +57,6 @@ curl -sL https://github.com/simplyvoid.gpg | gpg --import
 ```
 
 ```console
-309E 5C4E 2193 5932 7487 7103 6C85 D97D DAC4 462F
+F8E4 B12A 4469 44EC 2DD0 9FF4 E041 77E2 AC4B A39F
 ```
 </details>
