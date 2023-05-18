@@ -1,4 +1,5 @@
-<h2> Hi, I'm Wahid! <img src="assets/bouncecat.gif" width="40"></h2>
+<h2> Hi, I'm Wahid! <img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50">
+</h2>
 <a href="https://youtu.be/Vg3I4Ut9uXE"><img align='right' src="assets/cat.png" width="140"></a>
 <p><em>Self taught programmer from Bangladesh<img src="assets/happycat.gif" width="25"></br>I'm a 19 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
