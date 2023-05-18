@@ -1,7 +1,7 @@
 <h2> Hi, I'm Wahid! <img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50">
 </h2>
 <a href="https://youtu.be/Vg3I4Ut9uXE"><img align='right' src="assets/cat.png" width="140"></a>
-<p><em>Self taught programmer from Bangladesh<img src="assets/happycat.gif" width="25"></br>I'm a 19 year old boi uwu<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Self taught programmer from Bangladesh<img src="assets/happycat.gif" width="25"></br>I'm a 19 year old boi <s>uwu</s><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![followers Badge](https://img.shields.io/github/followers/simplyvoid?style=flat&logo=Aiqfome&labelColor=000000&color=CECDCB&logoColor=CECDCB)](https://github.com/simplyvoid?tab=followers)
@@ -20,9 +20,9 @@ class Student:
     def __init__(self):
         self.name = "Wahid Islam"
         self.pronoun = "He/Him"
-        self.code = ["Python", "Rust", "Typescript", "C++", "Html", "CSS"]
+        self.code = ["Rust", "Typescript", "Lua", "Go"]
         
-        self.role = ["Student", "Progammer"]
+        self.role = ["Student", "Developer"]
         self.language_spoken = ["bn_BD", "en_US"]
 
     def say_hi(self):
@@ -35,8 +35,8 @@ me.say_hi()
 
 ### 🔧 Technologies & Tools
 
-- Os: Windows(WSL)
-- Editor: Vscode
+- Os: Arch Linux (\w linux-zen)
+- Editor: Nvim + vscode
 
 :envelope: If you want to contact me, my socials are listed below.
 
@@ -47,9 +47,9 @@ me.say_hi()
 
 ### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"> Current projects..
 - [x] Choose framework for blog website.
-- [x] Create layout,home page & 404 for blog.
-- [ ] Impliment .md file for blog post.
-- [ ] Complete other pages
+- [ ] Create layout,home page & 404 for blog.
+- [x] Impliment .md file for blog post.
+- [x] Complete other pages
 
 <p align="center">
    <details> <summary>𝚅𝚒𝚎𝚠 𝚖𝚊𝚝𝚛𝚒𝚌𝚜👀</summary>
