@@ -43,7 +43,7 @@ me.say_hi()
 * Twitter: [@wahidislamlinad](https://twitter.com/wahidislamlinad)
 * Facebook: [Wahid Islam](https://facebook.com/wahidislamlinad)
 * Discord: [Wahid Islam#7700](https://discordapp.com/users/697797379583115315/)
-* Website: [https://wahidislamlinad.vercel.app](https://wahidislamlinad.vercel.app/)
+* Website: [https://linad.me](https://linad.me/)
 
 ### <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"> Current projects..
 - [x] Choose framework for blog website.
