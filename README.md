@@ -39,24 +39,23 @@
     </samp>
   </p><br>
 
-  <details>
-    <summary>Stats 📈</summary>
-    <br />
-    <p align="center">
-      <img src="./github-metrics.svg" />
-      <br />
-  </details>
+<details>
+  <summary>Stats 📈</summary>
+  <br/>
+          <!--<a href="https://app.daily.dev/SimplyVoid"><img src="https://api.daily.dev/devcards/8a574eb927c04cd4a7c52891adc31143.png?r=xqd" width="400" alt="Wahid Islam's Dev Card"/></a> -->
+          <img src="./github-metrics.svg" />
+  <br/>
+</details>
 
-  <details>
-    <summary>GPG 🔑</summary>
+<details>
+  <summary>GPG 🔑</summary>
 
-    ```sh
-    curl -sL https://github.com/psynyde.gpg | gpg --import
-    ```
+```sh
+curl -sL https://github.com/simplyvoid.gpg | gpg --import
+```
 
-    ```console
-    F8E4 B12A 4469 44EC 2DD0 9FF4 E041 77E2 AC4B A39F
-    ```
-
-  </details>
+```console
+F8E4 B12A 4469 44EC 2DD0 9FF4 E041 77E2 AC4B A39F
+```
+</details>
 </details>
