@@ -11,8 +11,8 @@
       I'm PsyNyde, a Student, and Linux enthusiast.
     </b>
     <br>
-    <image
-      src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&random=true&width=435&lines=I+code+funtional+%26+aesthetic+programs.">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I+code+funtional+%26+aesthetic+programs.">
       <br>
       <b>
         ~ Wahid Islam Linad ~
@@ -39,19 +39,18 @@
     </samp>
   </p><br>
 
-<details>
+<details align="center">
   <summary>Stats 📈</summary>
   <br/>
-          <!--<a href="https://app.daily.dev/SimplyVoid"><img src="https://api.daily.dev/devcards/8a574eb927c04cd4a7c52891adc31143.png?r=xqd" width="400" alt="Wahid Islam's Dev Card"/></a> -->
           <img src="./github-metrics.svg" />
   <br/>
 </details>
 
-<details>
+<details align="center">
   <summary>GPG 🔑</summary>
 
 ```sh
-curl -sL https://github.com/simplyvoid.gpg | gpg --import
+curl -sL https://github.com/PsyNyde.gpg | gpg --import
 ```
 
 ```console
